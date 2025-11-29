@@ -1,5 +1,5 @@
 # Dita-Vocab-Data-Mapper
-I create tools for Json data mapping.
+I create tools for vocab data mapping.
 
 ---
 
