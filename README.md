@@ -4,7 +4,7 @@ I create tools for vocab data mapping.
 ---
 
 ## Features
-* Mapping from multiple file to one file.
+* Mapping from multiple file.
 
 ---
 
